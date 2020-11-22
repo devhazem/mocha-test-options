@@ -24,9 +24,9 @@
     "url": "https://github.com/nazarhussain/mocha-test-options/issues"
   },
   "dependencies": {
-    "chai": "^3.5.0",
-    "escape-string-regexp": "~1.0.3",
-    "mocha": "~2.4.5"
+    "chai": "4.2.0",
+    "escape-string-regexp": "~4.0.0",
+    "mocha": "^8.2.0"
   },
   "directories": {
     "test": "test"
